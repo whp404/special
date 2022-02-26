@@ -4,7 +4,8 @@
 		"workExpList": "工作经历",
 		"projectList": "项目经历",
 		"skillList": "个人技能",
-		"workList": "个人作品"
+		"workList": "个人作品",
+		"aboutme":"自我介绍"
 	},
 	"avatar": {
 		"hidden": false
@@ -15,7 +16,7 @@
 		"mobile": "18362956395",
 		"workExpYear": "6",
 		"workPlace": "江苏南京",
-		"positionTitle": "java工程师"
+		"positionTitle": "Java工程师"
 	},
 	"educationList": [{
 			"edu_time": ["2009.09.01", "2013.06.30"],
