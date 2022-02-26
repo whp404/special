@@ -51,25 +51,31 @@
 	],
 	"skillList": [{
 			"skill_name": "熟悉Java语言、多线程编程，了解JVM基本内存结构和原理",
-			"skill_desc": "",
+			"skill_desc": "熟悉Java语言、多线程编程，了解JVM基本内存结构和原理",
 			"skill_level": 89
 		}, {
 			"skill_name": "使用主流的springboot框架,了解springCloud体系",
-			"skill_level": 90
+			"skill_desc": "使用主流的springboot框架,了解springCloud体系",
+			"skill_level": 80
 		}, {
 			"skill_name": "熟悉常用数据结构、设计模式",
-			"skill_level": 90
+			"skill_desc": "熟悉常用数据结构、设计模式",
+			"skill_level": 80
 		}, {
 			"skill_name": "掌握Redis分布式缓存组件",
+			"skill_desc": "掌握Redis分布式缓存组件",
 			"skill_level": 80
 		},{
 			"skill_name": "熟悉Mysql数据库，了解锁机制、事务、索引、innodb引擎内存结构等基本原理",
+			"skill_desc": "熟悉Mysql数据库，了解锁机制、事务、索引、innodb引擎内存结构等基本原理",
 			"skill_level": 80
 		},{
 			"skill_name": "使用过elasticSearch技术，对ELK一整套技术体系有一定的了解",
-			"skill_level": 80
+			"skill_desc": "使用过elasticSearch技术，对ELK一整套技术体系有一定的了解",
+			"skill_level": 70
 		},{
 			"skill_name": "掌握Kafka分布式消息组件，理解相关原理",
+			"skill_desc": "掌握Kafka分布式消息组件，理解相关原理",
 			"skill_level": 80
 		}
 	],
