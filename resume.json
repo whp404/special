@@ -62,13 +62,13 @@
 		}, {
 			"skill_name": "掌握Redis分布式缓存组件",
 			"skill_level": 80
-		}， {
+		},{
 			"skill_name": "熟悉Mysql数据库，了解锁机制、事务、索引、innodb引擎内存结构等基本原理",
 			"skill_level": 80
-		}， {
+		},{
 			"skill_name": "使用过elasticSearch技术，对ELK一整套技术体系有一定的了解",
 			"skill_level": 80
-		}， {
+		},{
 			"skill_name": "掌握Kafka分布式消息组件，理解相关原理",
 			"skill_level": 80
 		}
